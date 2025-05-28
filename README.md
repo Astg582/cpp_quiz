@@ -1,4 +1,4 @@
-# c-_Quiz# C++ Quiz Solutions
+# cpp_quiz# C++ Quiz Solutions
 
 A repository with solutions to the C++ Quiz tasks, divided into blocks of 30 tasks each.
 
